@@ -4,7 +4,7 @@ Here is my repository containing the Coding Challenge for PMG's Graduate Leaders
 
 It contains a requirements file, three sample CSV files, my script (combine.py), and the sample combined CSV file (combined.csv).
 
-***To run my script, please use the following format:*** 
+***To run the script, please use the following format:*** 
 ```shell 
 python script.py inputFile.csv inputFile.csv inputFile.csv outputFile.csv
 ```
