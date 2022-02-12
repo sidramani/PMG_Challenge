@@ -1,0 +1,11 @@
+Name: dask
+Version: 2022.1.1
+Summary: Parallel PyData with Task Scheduling
+Home-page: https://github.com/dask/dask/
+Author:
+Author-email:
+License: BSD
+Requires: cloudpickle, fsspec, packaging, partd, pyyaml, toolz
+
+
+
