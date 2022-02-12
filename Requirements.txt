@@ -7,5 +7,7 @@ Author-email:
 License: BSD
 Requires: cloudpickle, fsspec, packaging, partd, pyyaml, toolz
 
+Python version 3.7.6 was used to develop the script and Windows Powershell was used to run and execute the program.
+
 
 
