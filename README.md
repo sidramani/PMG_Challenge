@@ -14,3 +14,5 @@ Name: Siddhartha (Sid) Ramani <br>
 Email: siddhartha.ramani@mavs.uta.edu <br>
 LinkedIn: [Sid Ramani](https://www.linkedin.com/in/sid-ramani/) <br>
 Position: GLP - Data & Technology <br>
+
+P.S.: I have included a folder named 'Updated for Interview' that contains another script developed in the week before the interview. It contains a few code improvements and outputs a new CSV file to ```stdout```. 
