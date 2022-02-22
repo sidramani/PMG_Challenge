@@ -1,6 +1,3 @@
-import warnings
-warnings.simplefilter(action = 'ignore', category=FutureWarning)
-
 import sys
 import os
 from pathlib import Path
