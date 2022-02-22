@@ -12,7 +12,6 @@ def combine_csv(arg):
     #creates a list of distinct input files to avoid duplication and preserve order    
     files = list(dict.fromkeys(arg))
     
-    #combined_csv = pd.DataFrame()
     chunksize = 100000
     
     for i in range(len(files)):
